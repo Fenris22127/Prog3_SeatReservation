@@ -1,4 +1,5 @@
 rootProject.name = "SeatReservation"
 include 'Server'
 include 'Common'
+include 'Client'
 
